@@ -16,6 +16,10 @@ public class LaboratorioFinal {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        //cada vez que hagas cambios en tu proyecto tienes que subirlo a la rama de desarrollo y 
+        //luego pasar esos cambios a la rama Master
+        
     }
     
 }
